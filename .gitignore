@@ -1,0 +1,35 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Vim
+*~
+*.swp
+
+# Python
+python/dist/
+*.egg-info/
+
+# Npm
+node_modules/
+
+gen-*/
+
+# C++
+bin
+deps
+lib
+objs
